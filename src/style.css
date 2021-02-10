@@ -1,33 +1,37 @@
 body {
-  background-image: url('/Imagenes/detectivepikachu.jpg');
-   
+  background-image: url('Imagenes/detective-pikachu.jpg');
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+    
+  
   
 
   
 }
 
 h1 {
-  font-size: 40px;
-  font-family: 'roboto', sans-serif;
+  font-size: 45px;
+  font-family: 'fredoka one', cursive;
   font-weight: bold;
   margin-top: 30px;
   text-align: center;
   -webkit-text-stroke: 1px white;
   color: transparent;
-  color: #5D2C14;
-  margin-top: 50px;
+  color:black;
+  margin-top: 80px;
 }
 
 
 h2 {
-  font-size: 25px;
-  font-family:'roboto', sans-serif;
+  font-size: 30px;
+  font-family:'fredoka one', cursive;
   font-weight: bold;
   text-align: center;
   -webkit-text-stroke: 1px white;
   color: transparent;
   margin-top:50px;
-  color: #5D2C14;
+  color:black;
   
   
 
@@ -39,31 +43,32 @@ h2 {
   width: 500px;
   height: 50px;
   font-style: normal;
-  font-size: 14px; 
+  font-size: 12px; 
   color: #5D2C14;
   border-radius: 5px;
-  margin-left: 380px;
-  margin-top:40px;
+  margin-top:30px;
   border: 0;
-  font-family: 'roboto', sans-serif;
+  margin-left: 130px;
+  font-family:'fredoka one', cursive;
+  
+  
  }
 
 
-.resul {
-  width: 90%;
-  margin-top: 20px;
-}
+
+
 .resultado {
 width: 500px;
 height: 50px;
 resize: none;
 outline: 0px;
 border-radius: 5px;
-margin-left: 380px;
 border: 0;
-font-family: 'roboto', sans-serif;
-font-size: 14px;
- color: #5D2C14;
+font-family: 'fredoka one', cursive;
+font-size: 12px;
+color: #5D2C14;
+margin-top: 10px;
+margin-left: 130px;
 
 
   
@@ -73,31 +78,40 @@ font-size: 14px;
   height: 20px;
   border-radius: 5px;
   border: 0; 
-  margin-left: 10px;
-  margin-top: 5px;
+  margin-top: 1px;
+  display: flex;
+  justify-content: center;
+  margin-left: 350px;
+  font-family: 'fredoka one', cursive;
 
 
   
 }
 
 .label {
-   font-family: 'roboto', sans-serif;
-   font-size: 14px;
-   margin-left:550px;
-}
+   font-family: 'fredoka one', cursive;
+   font-size: 12px;
+   margin-left: 320px;
+  text-align: center;
+   
+   }
 #codi, #deco {
   border: 0px;
-  width: 80px;
+  width: 100px;
   height: 30px;
-  background-color: #F7F571;
+  background-color: #E9CC66;
   border-radius: 5px;
-  margin-top: 5px /*10px 9px 0px*/;
-  color: #010101;
-  font-size: 14px;
+  margin-top: 10px ;
+  color: black;
+  font-size: 12px;
   cursor: pointer;
   transition: 0.4s;
   padding: 8px 5px;
-  margin-left: 370px;
-  font-family: 'roboto', sans-serif;
-
+  font-family: 'fredoka one', cursive;
+  display: flex;
+  justify-content: center;
+  margin-left: 322px;
+  
 }
+ 
+    
