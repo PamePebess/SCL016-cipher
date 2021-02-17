@@ -1,9 +1,9 @@
 ## Proyecto Cipher (Cifrado César)
 
-# Título del proyecto
+### Título del proyecto
 “Juego de Detectives”
 
-# Autora del proyecto:
+Autora del proyecto:
 Pamela Pérez Bessolo
 
 
