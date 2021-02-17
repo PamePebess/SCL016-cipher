@@ -1,14 +1,12 @@
 body {
   background-image: url('Imagenes/detective-pikachu.jpg');
-  display: flex;
-  justify-content: center;
-  background-size: cover;
-    
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
   
-  
+   }
 
-  
-}
+
 
 h1 {
   font-size: 45px;
@@ -23,6 +21,7 @@ h1 {
 }
 
 
+
 h2 {
   font-size: 30px;
   font-family:'fredoka one', cursive;
@@ -32,12 +31,9 @@ h2 {
   color: transparent;
   margin-top:50px;
   color:black;
-  
-  
+  }
 
-  
-   
-}
+
 
 .mensaje {
   width: 500px;
@@ -46,15 +42,12 @@ h2 {
   font-size: 12px; 
   color: #5D2C14;
   border-radius: 5px;
-  margin-top:30px;
+  margin-top:40px;
   border: 0;
-  margin-left: 130px;
   font-family:'fredoka one', cursive;
+  margin-left: 370px;
   
-  
- }
-
-
+}
 
 
 .resultado {
@@ -68,33 +61,32 @@ font-family: 'fredoka one', cursive;
 font-size: 12px;
 color: #5D2C14;
 margin-top: 10px;
-margin-left: 130px;
-
-
-  
+margin-left: 370px;
 }
+
+
 .despla {
   width: 40px;  
   height: 20px;
   border-radius: 5px;
   border: 0; 
   margin-top: 1px;
-  display: flex;
-  justify-content: center;
-  margin-left: 350px;
   font-family: 'fredoka one', cursive;
-
-
+  font-size: 12px;
+  margin-left: 10px;
+  
   
 }
+
 
 .label {
    font-family: 'fredoka one', cursive;
    font-size: 12px;
-   margin-left: 320px;
-  text-align: center;
-   
-   }
+   text-align: center;
+   margin-left: 530px;
+     }
+
+
 #codi, #deco {
   border: 0px;
   width: 100px;
@@ -108,10 +100,7 @@ margin-left: 130px;
   transition: 0.4s;
   padding: 8px 5px;
   font-family: 'fredoka one', cursive;
-  display: flex;
-  justify-content: center;
-  margin-left: 322px;
-  
-}
+  margin-left: 570px;
+    }
  
     
