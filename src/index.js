@@ -1,31 +1,33 @@
 import cipher from './cipher.js';
-
-console.log(cipher);
-
-let mensaje = document.getElementById('mensaje');
+ 
+let textoentrada = document.getElementById('textoentrada');
 let desplazamiento = document.getElementById('desplazamiento');
 let codi = document.getElementById('codi');
 let deco = document.getElementById('deco');
 
 
-
-//boton codificar
 codi.addEventListener("click", codificar);
   function codificar() {
-   let cajatextos = mensaje.value;
+   
+   let cajamensaje = textoentrada.value;  
    let desplazamientos = parseInt(desplazamiento.value);
-   let resultado = window.cipher.encode(desplazamientos,cajatextos);
+   let resultado = cipher.encode(desplazamientos,cajamensaje);
 
-   document.getElementById('cajaresultado').value = resultado;
+   document.getElementById('textosalida').value = resultado;
   }
 
-//boton decodificar
+
 deco.addEventListener("click", decodificar);
  function decodificar() {
    
-   let cajadeco = mensaje.value;
+   let textofinal = textoentrada.value;
    let movimiento = parseInt(desplazamiento.value);
-   let resultado = window.cipher.decode(movimiento,cajadeco);
+   let resultado = cipher.decode(movimiento,textofinal);
 
-   document.getElementById('cajaresultado').value = resultado;
+   document.getElementById('textosalida').value = resultado;
  }
+
+
+  console.log(cipher);
+
+
