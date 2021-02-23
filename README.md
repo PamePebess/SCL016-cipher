@@ -26,5 +26,5 @@ https://ibb.co/tpB5BRh
 * Prototipo Figma:
 https://www.figma.com/file/qimLFCoDXaoefRVnauaNoj/Untitled?node-id=0%3A1
 
-* Captura proyecto final:
-https://ibb.co/TL24k0W
+* Link página web proyecto:
+https://pamepebess.github.io/SCL016-cipher/src/index.html
