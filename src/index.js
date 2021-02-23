@@ -1,11 +1,12 @@
 import cipher from './cipher.js';
  
+// variables elementos html
 let textoentrada = document.getElementById('textoentrada');
 let desplazamiento = document.getElementById('desplazamiento');
 let codi = document.getElementById('codi');
 let deco = document.getElementById('deco');
 
-
+//botón codificar
 codi.addEventListener("click", codificar);
   function codificar() {
    
@@ -16,7 +17,7 @@ codi.addEventListener("click", codificar);
    document.getElementById('textosalida').value = resultado;
   }
 
-
+//botón decodificar
 deco.addEventListener("click", decodificar);
  function decodificar() {
    
