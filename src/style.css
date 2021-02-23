@@ -1,52 +1,51 @@
 body {
-  background-image: url('Imagenes/detective-pikachu.jpg');
-  background-size: cover; 
-  background-position: center;
-  background-repeat: no-repeat;
-  
-   }
+background-image: url('img/detective-pikachu.jpg');
+background-size: cover; 
+background-position: center;
+background-repeat: no-repeat;
+}
 
 
 
 h1 {
-  font-size: 45px;
-  font-family: 'fredoka one', cursive;
-  font-weight: bold;
-  margin-top: 30px;
-  text-align: center;
-  -webkit-text-stroke: 1px white;
-  color: transparent;
-  color:black;
-  margin-top: 80px;
+font-size: 45px;
+font-family: 'fredoka one', cursive;
+font-weight: bold;
+margin-top: 30px;
+text-align: center;
+-webkit-text-stroke: 1px white;
+color: transparent;
+color:black;
+margin-top: 80px;
 }
 
 
 
 h2 {
-  font-size: 30px;
-  font-family:'fredoka one', cursive;
-  font-weight: bold;
-  text-align: center;
-  -webkit-text-stroke: 1px white;
-  color: transparent;
-  margin-top:50px;
-  color:black;
-  }
+font-size: 30px;
+font-family:'fredoka one', cursive;
+font-weight: bold;
+text-align: center;
+-webkit-text-stroke: 0.5px white;
+color: transparent;
+margin-top:50px;
+color:black;
+}
 
 
 
 .mensaje {
-  width: 500px;
-  height: 50px;
-  font-style: normal;
-  font-size: 12px; 
-  color: #5D2C14;
-  border-radius: 5px;
-  margin-top:40px;
-  border: 0;
-  font-family:'fredoka one', cursive;
-  margin-left: 370px;
-  
+width: 500px;
+height: 50px;
+font-style: normal;
+font-size: 12px; 
+color: #5D2C14;
+border-radius: 5px;
+margin-top:40px;
+border: 0;
+font-family:'fredoka one', cursive;
+margin-left: 370px;
+border: black 1px solid;
 }
 
 
@@ -62,45 +61,47 @@ font-size: 12px;
 color: #5D2C14;
 margin-top: 10px;
 margin-left: 370px;
+border: black 1px solid;
 }
 
 
 .despla {
-  width: 40px;  
-  height: 20px;
-  border-radius: 5px;
-  border: 0; 
-  margin-top: 1px;
-  font-family: 'fredoka one', cursive;
-  font-size: 12px;
-  margin-left: 10px;
-  
-  
+width: 40px;  
+height: 20px;
+border-radius: 5px;
+border: 0; 
+margin-top: 1px;
+font-family: 'fredoka one', cursive;
+font-size: 12px;
+margin-left: 10px;
+border: black 1px solid;
 }
 
 
 .label {
-   font-family: 'fredoka one', cursive;
-   font-size: 12px;
-   text-align: center;
-   margin-left: 530px;
-     }
+font-family: 'fredoka one', cursive;
+font-size: 12px;
+text-align: center;
+margin-left: 530px;
+-webkit-text-stroke: 0.2px white;
+}
 
 
 #codi, #deco {
-  border: 0px;
-  width: 100px;
-  height: 30px;
-  background-color: #E9CC66;
-  border-radius: 5px;
-  margin-top: 10px ;
-  color: black;
-  font-size: 12px;
-  cursor: pointer;
-  transition: 0.4s;
-  padding: 8px 5px;
-  font-family: 'fredoka one', cursive;
-  margin-left: 570px;
-    }
+border: 0px;
+width: 100px;
+height: 30px;
+background-color: #E9CC66;
+border-radius: 5px;
+margin-top: 10px ;
+color: black;
+font-size: 12px;
+cursor: pointer;
+transition: 0.4s;
+padding: 8px 5px;
+font-family: 'fredoka one', cursive;
+margin-left: 570px;
+border: black 1px solid;
+}
  
     
