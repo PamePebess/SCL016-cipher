@@ -16,7 +16,7 @@ Principalmente como estamos en pandemia tuve que reducir el estudio, lo hice pre
 
 El proyecto "Juego de Detectives" fue enfocado para un público infantil, adolescente e incluso adulto joven, mi objetivo es que los usuarios se diviertan creando y/o descifrando mensajes ocultos o secretos entre ellos con la dinámica de investigadores privados.
 
-El diseño se basa en los gustos que tienen principalmente los niños y jóvenesS, como referencia escogí a uno de los personajes más queridos y conocidos de la saga “Pokémon” (Pikachu).
+El diseño se basa en los gustos que tienen principalmente los niños y jóvenes, como referencia escogí a uno de los personajes más queridos y conocidos de la saga “Pokémon” (Pikachu).
 
 A continuación les dejo los links de mi prototipo-proyecto:
 
