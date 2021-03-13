@@ -16,7 +16,6 @@ text-align: center;
 -webkit-text-stroke: 1px white;
 color: transparent;
 color:black;
-margin-top: 80px;
 }
 
 
@@ -35,6 +34,9 @@ color:black;
 
 
 .mensaje {
+margin: auto;
+display: flex;
+justify-content: center;
 width: 500px;
 height: 50px;
 font-style: normal;
@@ -44,12 +46,15 @@ border-radius: 5px;
 margin-top:40px;
 border: 0;
 font-family:'fredoka one', cursive;
-margin-left: 370px;
 border: black 1px solid;
+
 }
 
 
 .resultado {
+margin: auto;
+display: flex;
+justify-content: center;
 width: 500px;
 height: 50px;
 resize: none;
@@ -60,12 +65,14 @@ font-family: 'fredoka one', cursive;
 font-size: 12px;
 color: #5D2C14;
 margin-top: 10px;
-margin-left: 370px;
 border: black 1px solid;
 }
 
 
 .despla {
+margin: auto;
+display: flex;
+justify-content: center;
 width: 40px;  
 height: 20px;
 border-radius: 5px;
@@ -73,21 +80,24 @@ border: 0;
 margin-top: 1px;
 font-family: 'fredoka one', cursive;
 font-size: 12px;
-margin-left: 10px;
 border: black 1px solid;
 }
 
 
 .label {
+display:flex;
+justify-content: center;
+text-align: center;
 font-family: 'fredoka one', cursive;
 font-size: 12px;
-text-align: center;
-margin-left: 530px;
 -webkit-text-stroke: 0.2px white;
 }
 
 
 #codi, #deco {
+margin: auto;
+display: flex;
+justify-content: space-evenly;
 border: 0px;
 width: 100px;
 height: 30px;
@@ -100,7 +110,6 @@ cursor: pointer;
 transition: 0.4s;
 padding: 8px 5px;
 font-family: 'fredoka one', cursive;
-margin-left: 570px;
 border: black 1px solid;
 }
  
