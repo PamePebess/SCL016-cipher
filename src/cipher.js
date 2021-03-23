@@ -1,5 +1,5 @@
 const cipher = {
-  
+
 encode: (desplazamientos, cajamensaje) => {
 let resultado = "";
 for (let i = 0; i < cajamensaje.length; i++) {
@@ -33,6 +33,7 @@ resultado += String.fromCharCode((ascii - 122 - movimiento) % 26 + 122);
 else if (ascii >= 48 && ascii <= 57) {
 resultado += String.fromCharCode((ascii - 57 - movimiento) % 10 + 57); 
 }
+
 else {
 resultado += textofinal.charAt(i);
 }
