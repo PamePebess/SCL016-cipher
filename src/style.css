@@ -94,7 +94,7 @@ font-size: 12px;
 }
 
 
-#codi, #deco {
+#encodeButton, #decodeButton {
 margin: auto;
 display: flex;
 justify-content: space-evenly;
