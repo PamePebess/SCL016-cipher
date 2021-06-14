@@ -4,7 +4,7 @@
 “Juego de Detectives”
 
 Autora del proyecto:
-Pamela Pérez Bessolo
+* Pamela Pérez Bessolo
 
 
 
