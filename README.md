@@ -18,13 +18,5 @@ El proyecto "Juego de Detectives" fue enfocado para un público infantil, adoles
 
 El diseño se basa en los gustos que tienen principalmente los niños y jóvenes, como referencia escogí a uno de los personajes más queridos y conocidos de la saga “Pokémon” (Pikachu).
 
-A continuación les dejo los links de mi prototipo-proyecto:
-
-* Prototipo en papel:
-https://ibb.co/tpB5BRh
-
-* Prototipo Figma:
-https://www.figma.com/file/qimLFCoDXaoefRVnauaNoj/Untitled?node-id=0%3A1
-
 * Link página web proyecto:
 https://pamepebess.github.io/SCL016-cipher/src/index.html
